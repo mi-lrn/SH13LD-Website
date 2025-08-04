@@ -19,7 +19,7 @@ SH13LDME© is an advanced Windows security and privacy configuration tool featur
 ## 📚 Links
 
 - **Main Program**: [SH13LDME GitHub Repository](https://github.com/mi-lrn/SH13LDME)
-- **Documentation**: [Endpoints Documentation](https://github.com/mi-lrn/SH13LDME/blob/main/README.md)
+- **Documentation**: [Program Documentation](https://github.com/mi-lrn/SH13LDME/blob/main/README.md)
 - **Support**: [Ko-fi](https://ko-fi.com/) (Coming Soon)
 
 ## 📄 License
